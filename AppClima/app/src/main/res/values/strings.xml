@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+    //esto se utiliza para agilizar el codigo, despues puedo volver a reutilizar estas variables
+    <string name="txt_grados">22°</string>
+    <string name="txt_ciudad">Ciudad de Mendoza</string>
+    <string name="txt_clima">Despejado</string>
+
+    <string name="txt_bienvenida">Bienvenido a mi app del clima, para poder ver el clima de una ciudad selecciona la opcion de abajo.</string>
+    <string name="txt_boton1">Clima de la Ciudad de Mendoza</string>
+    <string name="txt_boton2">Clima de la Ciudad de San Luis</string>
+</resources>
